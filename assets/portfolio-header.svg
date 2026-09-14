@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="t d">
+<title id="t">Hyogeun Lee — Software Developer</title><desc id="d">AI services, data tools, and interactive systems</desc>
+<rect width="1280" height="300" rx="20" fill="#14232f"/>
+<path d="M890 0V300M1010 0V300M1130 0V300M800 80H1280M800 160H1280M800 240H1280" stroke="#29404f" stroke-width="1"/>
+<path d="M910 220V128H1010V185H1130V75H1235" fill="none" stroke="#f6a45b" stroke-width="4"/>
+<circle cx="910" cy="220" r="7" fill="#f6a45b"/><circle cx="1010" cy="128" r="7" fill="#f6a45b"/><circle cx="1130" cy="75" r="7" fill="#f6a45b"/>
+<rect x="56" y="56" width="34" height="4" rx="2" fill="#f6a45b"/>
+<text x="56" y="101" fill="#adc0ce" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="4">SOFTWARE DEVELOPER</text>
+<text x="52" y="174" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="650">Hyogeun Lee</text>
+<text x="56" y="227" fill="#c7d3dc" font-family="Segoe UI,Arial,sans-serif" font-size="21">AI services · Data tools · Interactive systems</text>
+</svg>

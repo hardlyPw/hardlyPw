@@ -47,6 +47,22 @@ Python·FastAPI와 Java·Spring Boot로 API와 데이터 흐름을 만들고, Re
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="42%" valign="top"><a href="https://github.com/hardlyPw/PopPuang/tree/portfolio/readme-review"><img src="https://raw.githubusercontent.com/hardlyPw/PopPuang/a8a973293ee818dda99fa4c2165d13f3c604442a/docs/images/poppuang-preview.jpg" width="100%" alt="PopPuang 정적 미리보기 · 예시 데이터" /></a></td>
+<td width="58%" valign="top">
+<h3>05 · PopPuang</h3>
+<p><b>3학년 때 팀을 이끈 첫 백엔드 프로젝트.</b></p>
+<p>푸앙이를 클릭하며 학과별 점수를 쌓고 순위를 확인하는 웹 서비스입니다.</p>
+<p><b>기여</b> · 회원가입·로그인, 서버 세션 기반 사용자 식별, 오류 처리와 팀 기능 통합.</p>
+<p><b>근거</b> · 본인 구현 커밋과 기능 브랜치 병합 이력.</p>
+<p><sub>Java · Spring Boot · Thymeleaf · JPA · PostgreSQL</sub></p>
+<a href="https://github.com/hardlyPw/PopPuang">Repository ↗</a> · <a href="https://github.com/hardlyPw/PopPuang/tree/portfolio/readme-review">프로젝트 소개 ↗</a>
+<p><sub>이미지는 원본 UI 기반 정적 미리보기이며 예시 점수를 사용했습니다.</sub></p>
+</td>
+</tr>
+</table>
+
 ## How I build
 
 - **서비스 흐름 연결** — 데이터 입력부터 API와 화면까지 이어지는 기능을 만듭니다.

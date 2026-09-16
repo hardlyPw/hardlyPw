@@ -55,4 +55,8 @@ Python·FastAPI와 Java·Spring Boot로 API와 데이터 흐름을 만들고, Re
 
 ## Community
 
-GDGoC 활동에 참여했습니다. 커뮤니티 활동과 추가 팀 프로젝트의 담당 작업·산출물을 함께 정리하고 있습니다.
+GDGoC 활동에 참여했습니다.
+
+[Word Changer · 데이터 증강과 분류 모델 실험](evidence/word-changer/README.md) · [NotiPy · LLM 기반 역할 배치](evidence/notipy/README.md)
+
+추가 활동 기록에서 담당 설명, 구현 근거와 평가 범위를 확인할 수 있습니다.

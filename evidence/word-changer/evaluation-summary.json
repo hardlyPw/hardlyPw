@@ -1,0 +1,156 @@
+{
+  "status": "Historical notebook output; not rerun. v4 label mapping and split require review.",
+  "original_notebook_sha256": "e052814403adca3379fa0fd8c4731970940a415488595e3c1b5db277cc29006c",
+  "experiments": [
+    {
+      "cell_index": 0,
+      "model": "monologg/kobert",
+      "labels": 10,
+      "last_recorded_epoch": 8,
+      "lrap": 0.845339,
+      "micro_f1": 0.72857,
+      "macro_f1": 0.710111
+    },
+    {
+      "cell_index": 15,
+      "model": "xlm-roberta-base",
+      "labels": 17,
+      "last_recorded_epoch": 4,
+      "configured_max_epochs": 5,
+      "lrap": 0.91072,
+      "micro_f1": 0.733374
+    }
+  ],
+  "datasets": {
+    "integrated_train_v3.csv": {
+      "rows": 31160,
+      "columns": [
+        "text",
+        "labels"
+      ],
+      "unique_stripped_text": 30911,
+      "duplicate_rows": 249,
+      "invalid_label_vectors": 0,
+      "all_zero_vectors": 0,
+      "positive_label_counts": {
+        "0": 2095,
+        "1": 1593,
+        "2": 1323,
+        "3": 2042,
+        "4": 808,
+        "5": 1226,
+        "6": 1337,
+        "7": 1016,
+        "8": 4818,
+        "9": 4525,
+        "10": 8210,
+        "11": 12,
+        "12": 608,
+        "13": 2016,
+        "14": 4909,
+        "15": 3529,
+        "16": 4098
+      }
+    },
+    "integrated_valid_v3.csv": {
+      "rows": 3463,
+      "columns": [
+        "text",
+        "labels"
+      ],
+      "unique_stripped_text": 3460,
+      "duplicate_rows": 3,
+      "invalid_label_vectors": 0,
+      "all_zero_vectors": 0,
+      "positive_label_counts": {
+        "0": 266,
+        "1": 179,
+        "2": 137,
+        "3": 220,
+        "4": 80,
+        "5": 131,
+        "6": 156,
+        "7": 119,
+        "8": 519,
+        "9": 513,
+        "10": 894,
+        "11": 3,
+        "12": 67,
+        "13": 218,
+        "14": 547,
+        "15": 374,
+        "16": 463
+      }
+    },
+    "integrated_train_v4.csv": {
+      "rows": 33968,
+      "columns": [
+        "text",
+        "labels"
+      ],
+      "unique_stripped_text": 33961,
+      "duplicate_rows": 7,
+      "invalid_label_vectors": 0,
+      "all_zero_vectors": 12861,
+      "positive_label_counts": {
+        "0": 2118,
+        "1": 1600,
+        "2": 1300,
+        "3": 2051,
+        "4": 796,
+        "5": 1209,
+        "6": 1361,
+        "7": 1016,
+        "8": 4806,
+        "9": 4526,
+        "10": 0,
+        "11": 0,
+        "12": 12,
+        "13": 1916,
+        "14": 360,
+        "15": 0,
+        "16": 0
+      }
+    },
+    "integrated_valid_v4.csv": {
+      "rows": 3775,
+      "columns": [
+        "text",
+        "labels"
+      ],
+      "unique_stripped_text": 3775,
+      "duplicate_rows": 0,
+      "invalid_label_vectors": 0,
+      "all_zero_vectors": 1426,
+      "positive_label_counts": {
+        "0": 243,
+        "1": 172,
+        "2": 160,
+        "3": 211,
+        "4": 92,
+        "5": 148,
+        "6": 132,
+        "7": 119,
+        "8": 531,
+        "9": 512,
+        "10": 0,
+        "11": 0,
+        "12": 2,
+        "13": 210,
+        "14": 36,
+        "15": 0,
+        "16": 0
+      }
+    }
+  },
+  "exact_train_valid_text_overlap": {
+    "v3": 56,
+    "v4": 1
+  },
+  "limitations": [
+    "LRAP is not accuracy.",
+    "Different datasets and label sets prevent direct model comparison.",
+    "Current CSV files are not checksum-linked to historical training runs.",
+    "KoBERT input CSVs were not located in the supplied model directory."
+  ]
+}

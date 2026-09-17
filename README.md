@@ -6,6 +6,8 @@
 
 Python·FastAPI와 Java·Spring Boot로 API와 데이터 흐름을 만들고, React·Next.js와 Flutter로 사용자 화면을 연결해 왔습니다. 실시간 게임에서는 플레이어 상태와 네트워크 흐름을 다뤘습니다.
 
+[**포트폴리오 보기 ↗**](https://chatter-tilapia-ae7.notion.site/HOME-3dbb5c63217f816395e0febf9d857217) · 프로젝트별 문제 해결 과정과 구현 근거
+
 ## Selected projects
 
 <table>

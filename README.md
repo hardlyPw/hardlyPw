@@ -44,7 +44,7 @@ Python·FastAPI와 Java·Spring Boot로 API와 데이터 흐름을 만들고, Re
 <p><b>기여</b> · 데이터 적재·DB·분석 API·타임라인과 차트 전체 개발.</p>
 <p><b>활용</b> · 실제 프로게이머와 코치가 인터뷰 과정에서 사용.</p>
 <p><sub>Java · Spring Boot · MySQL · Next.js</sub></p>
-<p>원자료 공개 없이 구현 구조와 인터뷰 활용 경험을 소개합니다.</p>
+<p><a href="http://3.34.82.181/">합성 데이터 데모 ↗</a> · 읽기 전용으로 시간 구간과 대화 패턴을 탐색할 수 있습니다.</p>
 </td>
 </tr>
 </table>

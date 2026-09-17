@@ -42,7 +42,23 @@ Python·FastAPI와 Java·Spring Boot로 API와 데이터 흐름을 만들고, Re
 <p><b>기여</b> · 데이터 적재·DB·분석 API·타임라인과 차트 전체 개발.</p>
 <p><b>활용</b> · 실제 프로게이머와 코치가 인터뷰 과정에서 사용.</p>
 <p><sub>Java · Spring Boot · MySQL · Next.js</sub></p>
-<p>공개용 사례와 데모 자료 정리 중</p>
+<p>원자료 공개 없이 구현 구조와 인터뷰 활용 경험을 소개합니다.</p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="42%" valign="top"><a href="https://github.com/hardlyPw/PopPuang"><img src="https://raw.githubusercontent.com/hardlyPw/PopPuang/a8a973293ee818dda99fa4c2165d13f3c604442a/docs/images/poppuang-preview.jpg" width="100%" alt="PopPuang 정적 미리보기 · 예시 데이터" /></a></td>
+<td width="58%" valign="top">
+<h3>05 · PopPuang</h3>
+<p><b>3학년 때 팀을 이끈 첫 백엔드 프로젝트.</b></p>
+<p>푸앙이를 클릭하며 학과별 점수를 쌓고 순위를 확인하는 웹 서비스입니다.</p>
+<p><b>기여</b> · 회원가입·로그인, 서버 세션 기반 사용자 식별, 오류 처리와 팀 기능 통합.</p>
+<p><b>근거</b> · 본인 구현 커밋과 기능 브랜치 병합 이력.</p>
+<p><sub>Java · Spring Boot · Thymeleaf · JPA · PostgreSQL</sub></p>
+<a href="https://github.com/hardlyPw/PopPuang">Repository ↗</a> · <a href="https://github.com/hardlyPw/PopPuang">프로젝트 소개 ↗</a>
+<p><sub>이미지는 원본 UI 기반 정적 미리보기이며 예시 점수를 사용했습니다.</sub></p>
 </td>
 </tr>
 </table>
@@ -55,4 +71,8 @@ Python·FastAPI와 Java·Spring Boot로 API와 데이터 흐름을 만들고, Re
 
 ## Community
 
-GDGoC 활동에 참여했습니다. 커뮤니티 활동과 추가 팀 프로젝트의 담당 작업·산출물을 함께 정리하고 있습니다.
+GDGoC 활동에 참여했습니다.
+
+[Word Changer · 데이터 증강과 분류 모델 실험](evidence/word-changer/README.md) · [NotiPy · LLM 기반 역할 배치](evidence/notipy/README.md)
+
+추가 활동 기록에서 담당 설명, 구현 근거와 평가 범위를 확인할 수 있습니다.
